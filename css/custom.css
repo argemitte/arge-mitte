@@ -14,6 +14,10 @@ body {
   hyphens: auto;
 }
 
+.container p.right {
+  text-align: right;
+}
+
 footer {
   border-top: solid 2px #222;
 }
