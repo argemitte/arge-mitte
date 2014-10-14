@@ -1,0 +1,23 @@
+body {
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  font-weight: 400;
+}
+
+#about, #work, #contact {
+  padding-top: 50px;
+}
+
+.container p {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
+.container p.right {
+  text-align: right;
+}
+
+footer {
+  border-top: solid 2px #222;
+}
