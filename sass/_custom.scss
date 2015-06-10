@@ -37,7 +37,13 @@ body {
 
 footer {
   border-top: solid 2px #222;
-  p {
+  p, a {
     color: grey;
+  }
+  a:active,
+  a:hover,
+  a:visited {
+    text-decoration: none;
+    color: #323232;
   }
 }
